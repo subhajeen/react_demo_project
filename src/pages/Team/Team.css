@@ -1,0 +1,23 @@
+.team_txt{
+    font-size: 24px;
+    font-weight: 700;
+   text-align: center;
+    color: #c2b7b1;
+
+}
+.Team_txt1{
+text-align: center;
+padding-bottom: 15px;
+font-size: 32px;
+font-weight: 700;
+color: #4e4039;
+font-family: "Open Sans", sans-serif;
+}
+.Team_txt1::after{
+    margin-left: 48%;
+    content: '';
+    display: block;
+    width: 5%;
+    height: 2px;
+    background-color: rgb(247, 65, 29);
+}

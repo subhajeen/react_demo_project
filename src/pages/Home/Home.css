@@ -1,0 +1,37 @@
+.txt{
+    display: flex;
+    justify-content: space-between;
+}
+.txt h4{
+    font-size: 48px;
+    margin: 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #4e4039;
+    font-family: "Raleway", sans-serif;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    display: block;
+    margin-left: 30px;
+}
+.txt h6{
+    color: #a08f86;
+    margin: 15px 0 0 0;
+    font-size: 24px;
+    font-family: "Raleway", sans-serif;
+    margin-left: 30px;
+    
+}
+
+.btn_txt{
+    background-color: rgb(255, 85, 0);
+    border-color: rgb(255, 85, 0);
+    margin-left: 30px;
+    }
+    /* .image_disp{
+        display: flex;
+        margin: 50%;
+        
+              
+    } */

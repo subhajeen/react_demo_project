@@ -1,0 +1,60 @@
+.nave{
+        background-color: rgb(243, 219, 187);
+    border: 8px;
+}
+
+.nave_txt{
+    padding: 25px;
+    font-size: 18px;
+    padding-left: 18%;
+    text-decoration: none;
+    color: black;
+
+}
+ .nave_txt1{
+    padding: 25px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+} 
+.nave_txt2{
+    padding: 25px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+} 
+.nave_txt3{
+    padding: 25px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+} 
+.nave_txt4{
+    padding: 25px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+} 
+.nave_txt5{
+    padding: 25px;
+    font-size: 15px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+} 
+.nave_txt6{
+    padding: 25px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+} 
+.btn{
+    margin: 12px;
+    size: 20px;
+    background-color: rgb(255, 55, 0);
+    color: white;
+    padding: 25px;
+    font-size: 15px;
+    font-size: 18px;
+}
+
